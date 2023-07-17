@@ -18,7 +18,9 @@ Rules of the game are stored in this repo as a PDF, at http://mathieuguerville.t
 The platform on which the game can be played is free and allows multiplayer sessions, but doesn't provide advanced features, such that:
  - Players should use a separate chat or live voice/video messaging (zoom, meet.jit.si, discord, etc.)
  - Players should know the rules, as the platform doesn't enforce them, and therefore it is up to the players to ensure they are following them and playing according to the intended design of the game
- - Players should self-manage the turns
+ - Players should self-manage the turns, as the way the session is set up allows all players to interact with the cards at the same time
+
+All in all think of this platform as a digital tabletop, and playing online requires the same degree of cooperation and rules understanding as a physical game session would.
 
 ### About
 
