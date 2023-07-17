@@ -1,10 +1,10 @@
-# intrapreneurs
+# Intrapreneurs, the card game
 
-This card game can be played on playingcards.io by loading the .pcio file from this repository
+This card game is availble at http://mathieuguerville.tilda.ws/intrapreneurs-game, this repo offers the assets to play it on the playingcards.io platform by loading the .pcio file from this repository
 
 ### Rules
 
-Rules of the game are stored in this repo as a PDF, and available as a mobile or web app at https://intrapreneurs.glideapp.io/ (contains additional materials and links to buy the physical edition of the game)
+Rules of the game are stored in this repo as a PDF, at http://mathieuguerville.tilda.ws/intrapreneurs-game/rules, and available as a mobile or web app at https://intrapreneurs.glideapp.io/ (contains additional materials and links to buy the physical edition of the game)
 
 > The obejctive of the game is to build a winning innovation strategy by drafting cards representing various assets and their associated 3 types of resources (Money [Budget, represented by a banknote], Talent [Headcounts, represented by an employee badge], and Momentum [Tailwind, represented by a wind sock]) and using them to build a balanced portfolio of innovation projects (balanced in the types of rewards they deliver and the magnitude of the project scope).
 >
